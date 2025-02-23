@@ -51,7 +51,11 @@ Write to: https://t.me/ZiBibro
 
 Follow us on Social Media:
 
-Twitter: https://x.com/RadZib_Interact
+Twitter (Studio): https://x.com/RadZib_Interact
+
+Twitter (Game): https://x.com/EchoesOTRozlom
+
+Telegram: https://t.me/RadZib_Interactive
 
 Discord: https://discord.gg/UhBCKHkcPE
 
