@@ -22,6 +22,7 @@ Development Status 🚧
 
 The design document is fully and thoroughly written.📝
 We are searching for investments to attract programmers to our team.💰
+Basic shooter mechanics have been developed.
 
 Roadmap 🗓️
 
