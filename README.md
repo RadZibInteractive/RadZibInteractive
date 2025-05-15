@@ -1,53 +1,39 @@
 🎮 RadZib Interactive: Your Portal to Post-Apocalyptic Worlds!
 
-Who Are We?✨RadZib Interactive is an independent game development studio based in the heart of Ukraine! 🇺🇦 We're passionate about crafting immersive and engaging gaming experiences.
+Who Are We? RadZib Interactive is a game development studio that creates an innovative AA RPG “Echoes of the Rozlom”.
 
-What We Do 🚀 We're hard at work on "Echoes of the Rozlom" 🌍, our ambitious new project! This single-player, post-apocalyptic FPS is set to revolutionize the genre with its unique in-game editor and NFT integration.
+What We Do? We are developing Echoes of the Rozlom, a post-apocalyptic RPG where players become co-authors of the world through a powerful UGC editor and NFT monetization.
 
-The Coolest Part? ✨ You, the player, get to shape the story! 🤯 Develop new content and have a real impact on the game world.
+The Coolest Part? The coolest part is that players can not only play, but create unique content and earn money by turning their ideas into real NFT assets through our 'Rozlom Engine' on Solana.
 
-Our Team (So Far...) 🧑‍💻
+Our Team? Our team consists of two founders who are actively forming partnerships with experienced studios such as Red Viburnum Studio and Max Studio SG to strengthen and accelerate development.
 
-As of January 2025, the project is being led by a dedicated game designer 🤓.
-We have agreements in place to bring on students as 3D and 2D artists.
-Also, we have agreement with experienced programmers to join our team after we receive funding.
+Tech Stack? We use Unreal Engine 5 to develop the game itself and the Solana blockchain to implement a transparent and efficient NFT economy for creators.
 
-Tech Stack ⚙️
+Current Status? We have now completed the design phase of Echoes of the Rozlom, are actively developing the game's core on Unreal Engine 5, and are focused on attracting partners to accelerate the project's release.
 
-🎮 Unreal Engine 5
-⛓️ Solana Blockchain (for NFTs!)
-... and more to come!
+The Road to Release:
 
-Development Status 🚧
+Echoes of the Rozlom is progressing steadily with completed design documentation and active core development.
 
-The design document is fully and thoroughly written.📝
-We are searching for investments to attract programmers to our team.💰
-Basic shooter mechanics have been developed.
+Design Phase Complete (Q4 2024 - Q1 2025)
 
-Roadmap 🗓️
+Game design documentation finalized. Technical architecture for Solana integration defined.
 
-Initial Prototype Development (Q1 2025):🏗️
-Develop core gameplay mechanics.
-Develop communication strategy.
-Launch of marketing campaign.
-Participate in Games Gathering.
+Current: Core Development (Q2 - Q4 2025)
 
-Extended Prototype Phase (Q2 2025):🏗️
-Implement basic editor functionality.
-Initial NFT integration research & planning.
-Refine gameplay, editor, and NFT systems.
+Building gameplay mechanics in Unreal Engine 5. Implementing initial blockchain features.
 
-Full Development (Q3 2025): 🚀
-Content creation, feature implementation & enhancement.
+Prototype & Testing (Q1 2026 - Q1 2029)
 
-Beta Testing (Q3 2027): 🧪
-Collect feedback and iterate based on player opinions.
+Functional prototype with core mechanics. Alpha/Beta testing with community feedback.
 
-Full Launch (Q1 2028): 🎉
-Release the complete game with an integrated editor and NFT marketplace!
+Full Release (Q2 2029 - Q2 2030)
+
+Base game launch followed by UGC marketplace rollout. Expanding creator economy.
 
 How to Join/Support Us! 🤝
-Want to be part of this exciting journey? Reach out to us!
+
 Write to: https://t.me/ZiBibro
 
 Follow us on Social Media:
