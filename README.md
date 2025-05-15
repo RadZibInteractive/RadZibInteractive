@@ -54,7 +54,7 @@ LinkedIn: https://www.linkedin.com/in/radzib-interactive-706924345/
 
 Website: https://radzibinteractive.com/
 
-Thank you for your support! 🙏 Let's build something amazing together! 🚀
+Thank you for your support!
 
 <!---
 RadZibInteractive/RadZibInteractive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
