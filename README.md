@@ -19,17 +19,23 @@ Tech Stack? We use Unreal Engine 5 to develop the game itself and the Solana blo
 Current Status? We have now completed the design phase of Echoes of the Rozlom, are actively developing the game's core on Unreal Engine 5, and are focused on attracting partners to accelerate the project's release.
 
 
-The Road to Release:
+The Road to MVP:
 
-Echoes of the Rozlom is progressing steadily with completed design documentation and active core development.
+Design Phase (Q4 2024 - Q1 2025)
 
-Design Phase Complete (Q4 2024 - Q1 2025): Game design documentation finalized. Technical architecture for Solana integration defined.
+The design documentation has been finalized. The technical architecture for blockchain integration has been determined.
 
-Current: Core Development (Q2 - Q4 2025): Building gameplay mechanics in Unreal Engine 5. Implementing initial blockchain features.
+Current: Core Development (Q2 - Q4 2025)
 
-Prototype & Testing (Q1 2026 - Q1 2029): Functional prototype with core mechanics. Alpha/Beta testing with community feedback.
+Creating a working prototype that proves the viability of the core "Play ➔ Create" cycle.
 
-Full Release (Q2 2029 - Q2 2030): Base game launch followed by UGC marketplace rollout. Expanding creator economy.
+Full Development (Q1 2026)
+
+Confirming that our tools are easy and enjoyable to use, and beginning to build the core community.
+
+Next Steps (after successful MVP)
+
+Securing the next round of investment to scale the team and product.
 
 
 How to Join/Support Us:
